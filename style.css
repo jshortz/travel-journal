@@ -2,3 +2,22 @@ p {
   padding-left: 1%;
   padding-right: 1%;
 }
+
+img {
+  width: 20%;
+  height: auto;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  height: 3%;
+  flex-wrap: nowrap;
+}
+
+.navbar div {
+  width: 14%;
+  padding: 5px;
+  border: solid;
+  text-align: center;
+}
