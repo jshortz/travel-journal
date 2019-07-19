@@ -4,7 +4,7 @@ p {
 }
 
 img {
-  width: 250px;
+  width: 100%;
 }
 
 .navbar {
@@ -12,6 +12,7 @@ img {
   flex-direction: row;
   height: 3%;
   flex-wrap: nowrap;
+  background: rgb(231, 228, 228);
 }
 
 .navbar div {
@@ -19,4 +20,9 @@ img {
   padding: 5px;
   border: solid;
   text-align: center;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background: rgb(228, 208, 183);
 }
