@@ -1,0 +1,44 @@
+#aboutTJ img {
+  width: 50%;
+  height: 30em;
+  margin: 0%;
+  float: left;
+  z-index: -1;
+}
+
+#aboutTJ {
+  margin: 0%;
+}
+
+#centerTJ {
+  background: white;
+  height: 10rem;
+  width: 15rem;
+  z-index:0;
+  position: absolute;
+  left: 42.5%;
+  top: 24rem;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 35pt;
+  padding-top: 1%;
+  opacity: .7;
+}
+
+.placeText {
+  background: lightgray;
+  height: 4rem;
+  width: 12rem;
+  z-index:0;
+  position: absolute;
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 28pt;
+  opacity: .8;
+}
+
+.placeText a {
+  text-decoration: none;
+  color: black;
+  opacity: 1;
+}

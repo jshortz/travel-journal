@@ -47,3 +47,21 @@ body {
 body div {
   margin-bottom: 3em;
 }
+
+.placeText {
+  background: lightgray;
+  height: 4rem;
+  width: 14rem;
+  z-index:0;
+  position: absolute;
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 28pt;
+  opacity: .8;
+  padding-top:.5%;
+}
+
+.placeText a {
+  text-decoration: none;
+  color: black;
+}
